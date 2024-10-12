@@ -3,7 +3,7 @@
 
 
 
-I used the Java Database Connectivity (JDBC) API to connect MySQL to my java code and allowed me to preform SQL operations within it.
+I used the Java Database Connectivity (JDBC) API to connect MySQL to my java code, allowing me to perform SQL operations within it.
 
 
 # Bank App Showcase
